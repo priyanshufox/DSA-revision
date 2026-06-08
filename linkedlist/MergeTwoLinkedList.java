@@ -1,6 +1,5 @@
 package linkedlist;
 
-import linkedlist.ListNode;
 public class MergeTwoLinkedList {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(-1);
