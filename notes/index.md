@@ -2,6 +2,17 @@
 
 Topic-wise notes for LeetCode problems solved in this repo.
 
+## Master Sheets (One Shot Revision)
+
+| Topic | Master Sheet |
+|-------|-------------|
+| Graphs | [mastersheet/graphs.md](mastersheet/graphs.md) |
+| Trees | [mastersheet/trees.md](mastersheet/trees.md) |
+| Linked List | [mastersheet/linkedlist.md](mastersheet/linkedlist.md) |
+| Bit Manipulation | [mastersheet/bitmanipulation.md](mastersheet/bitmanipulation.md) |
+
+## Problem Notes
+
 | # | Topic | Problems |
 |---|-------|---------|
 | 1 | [Graphs](1.graphs/index.md) | BFS, DFS, Clone Graph, Number of Provinces |
